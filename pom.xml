@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>API-REST-java-SpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>API-REST-java-SpringBoot</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
